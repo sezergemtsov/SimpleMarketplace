@@ -4,7 +4,7 @@
 
 Вариант бэк-энда простенького маркетплейса с ограниченным функционалом нв базе фреймворка Spring
 
-Полный список требований описан [здесь](["http://"](https://github.com/sezergemtsov/SimpleMarketplace/blob/master/endpoints.md))
+Полный список требований описан [ здесь ](https://github.com/sezergemtsov/SimpleMarketplace/blob/master/TechnicalTask.md)
 
 Приложение сконфигурировано с использованием Hibernate и Liquibase поэтому при первом запуске для инициализации всех таблиц
 установите следующие настройки в файле application.properties:
@@ -33,4 +33,4 @@ spring.liquibase.enabled=true
 
 Как было описано в первом разделе проект написан согласно требованиям
 
-Краткий обзор используемых эндпоинтов можно посмотреть [здесь](["http://"](https://github.com/sezergemtsov/SimpleMarketplace/blob/master/endpoints.md))
+Краткий обзор используемых эндпоинтов можно посмотреть [ здесь ](https://github.com/sezergemtsov/SimpleMarketplace/blob/master/endpoints.md)
